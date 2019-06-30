@@ -1,2 +1,2 @@
-setItemName("tile.dirt", "Дерьмо");
+setItemName("item.pickaxeStone", "Дерьмо");
 
