@@ -1,2 +1,2 @@
-setItemName("dirt", "Дерьмо");
+setItemName("item.dirt", "Дерьмо");
 
